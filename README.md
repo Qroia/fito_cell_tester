@@ -10,3 +10,7 @@ Supported sensors:
 Resistors:
   1. for rH - 80khOm+
   2. for temperature - 2.2khOm+
+
+Display is LCD 1602A I2C Protocol
+
+Based by Arduino UNO
